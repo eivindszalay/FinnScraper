@@ -1,0 +1,23 @@
+{
+  "name": "FinnScraper",
+  "version": "1.0.0",
+  "description": "A webscraper that analyzes the frequencies of IT-related terms and technologies in job advertisments on Finn.no.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eivindszalay/FinnScraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eivindszalay/FinnScraper/issues"
+  },
+  "homepage": "https://github.com/eivindszalay/FinnScraper#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
